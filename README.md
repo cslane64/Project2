@@ -1,3 +1,4 @@
+[![Image](/public/img/cameraIcon.png)]
 # Zoom-In
 
 If you're a photographer, haven't you ever wanted to get together with other photographers to share ideas, techniques, lessons learned and just the commoradity of being with other people that enjoy photography. Even more specifically, enjoy the same type of photography as you. 
